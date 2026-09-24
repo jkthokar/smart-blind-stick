@@ -127,3 +127,6 @@ Kyungdong University (Global Campus), Republic of Korea.
 ## 📜 License
 
 MIT License — free to use, modify, and build upon.
+## 📄 Research Paper
+DOI: [10.5281/zenodo.22928913](https://doi.org/10.5281/zenodo.22928913)
+[📥 Read Full Paper](https://zenodo.org/records/22928913)
